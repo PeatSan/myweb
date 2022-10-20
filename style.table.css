@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,200;0,300;1,200&display=swap");
+
+* {
+  font-family: "Roboto", "Kanit", sans-serif;
+}
+
+table, th, td{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: crimson; 
+    color: white; 
+}
+
+tr:hover{
+    background-color: rgb(243, 209, 215);    
+
+}
+
+table{
+    width:100%;
+    text-align: center;
+    background-color:rebeccapurple;
+}
+
+
+img{
+    width: 150px;
+}
+
+.id-product{
+    font-size: larger;
+    font-weight: 200px;
+}
+
+caption{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+
+
